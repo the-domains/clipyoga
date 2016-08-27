@@ -1,4 +1,19 @@
+name: clipyoga
+favicon: null
+layout_spectrum: 0.5802825880236924
 typography_spectrum: 0.5109277183655649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -10,20 +25,4 @@ color:
   lightness: 0.4748660430777818
   saturation: 0.6481443317607045
   rhythmicContrast: 0.9564413509797305
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5802825880236924
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: clipyoga
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-description: Peaceful savings
 purpose: []
